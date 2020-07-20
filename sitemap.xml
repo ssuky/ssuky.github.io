@@ -3,15 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>ssuky.github.io/categories/</loc>
+    <loc>http://ssuky.github.io/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
   </url>
   
   <url>
-    <loc>ssuky.github.io/</loc>
+    <loc>http://ssuky.github.io/blogs/aliquam/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
   </url>
   
   <url>
-    <loc>ssuky.github.io/tags/</loc>
+    <loc>http://ssuky.github.io/blogs/</loc>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ssuky.github.io/blogs/tempus/</loc>
+    <lastmod>2017-10-31T22:26:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ssuky.github.io/blogs/magna/</loc>
+    <lastmod>2017-10-31T22:26:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ssuky.github.io/blogs/ipsum/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ssuky.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ssuky.github.io/tags/</loc>
   </url>
   
 </urlset>
